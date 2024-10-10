@@ -1,0 +1,34 @@
+
+        .box{
+            padding: 50px;
+            margin: 100px auto;
+            height: 500px;
+            width: 1000px;
+            background-image: linear-gradient(rgb(47, 51, 114),rgb(23, 25, 76));
+            border-radius: 20px;
+        }
+        .getp{
+            font-size: 60px;
+            height: 5px;
+            padding-left: 5%;
+            font-family: 'Outfit';
+            color: #d9d9d9;
+        }
+        .con{
+            float: right;
+            height: 300px;
+            width: 300px;
+            padding-right: 42%;
+        }
+
+        .abt{
+            font-size: 26px;
+            color: #d9d9d9;
+            display: block;
+            padding-bottom: 4%;
+            padding-left: 6%;
+            font-family: 'Lato';
+        }
+        a{
+            text-decoration: none;
+        }
